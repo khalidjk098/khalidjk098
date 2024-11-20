@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalidjk098
-- 👀 I’m interested in PYHTON
-- 🌱 I’m currently learning JAVA AND C...
-- 💞️ I’m looking to collaborate on intermediate pogrammer
+- 👀 I’m interested in PYHTON, ETL, BI, and SQL.
+- 🌱 Aspiring Data Engineer
+- 💞️ I’m looking to collaborate with on intermediate programmer
 - 📫 How to reach me 
 
 <!---
